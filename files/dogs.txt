@@ -1,0 +1,7 @@
+Bulldog,Max,5,https://upload.wikimedia.org/wikipedia/commons/b/bf/Bulldog_inglese.jpg
+Dalmatian,Cooper,5,https://upload.wikimedia.org/wikipedia/commons/6/68/Sun_Dog_Dalmatian.jpg
+Labrador,Charlie,3,https://upload.wikimedia.org/wikipedia/commons/2/26/YellowLabradorLooking_new.jpg
+Husky,Nala,5,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvdts1Md7U6MUwQPbGPn__fE7c3eJSvXF0nKj7QqN8zFEJt-qW_0d_j9PlFqtAdkPPDUtGqOOMgWXO0j86locfWYvQch5eiruoSmdlz-D&s=10
+Chihuahua,Milo,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcU4L8wxHTdhxYNoqzeCV4BfrJtBikoFS2UmjXPn5W6h2cg1FM8ySSuT2IX6sVuAUI3DnOpHMK3IcJSIAZKq_4aAanEqFUD7rsm_-5B2zng&s=10
+Rottweiler,Rocky,7,http://upload.wikimedia.org/wikipedia/commons/6/62/Rottweiler_Moletai_May_2014.2.jpg
+Shih Tzu,Chico,6,https://worldanimalfoundation.org/wp-content/uploads/2024/01/types-of-shih-tzu-1536x880.jpg
